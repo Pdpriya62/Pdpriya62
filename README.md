@@ -1,6 +1,6 @@
 # Hi, I'm Priyadarshini Prasad 👋
 
-I build across the stack: IoT hardware, machine learning from first principles, secure network design and full-stack web apps.
+AIML student who refuses to stay in one lane 💅 I train models from scratch (yes, by hand-deriving the gradients, no I'm not okay), wire up IoT sensors, lock down networks and ship full-stack apps. Still learning, already building. It's giving main character energy.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyadarshini%20Prasad-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyadarshini-prasad-a92a4b3a9)
 
