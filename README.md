@@ -1,6 +1,6 @@
-# Hi, I'm Priyadarshini Prasad 👋
+# Priyadarshini Prasad
 
-AIML student who refuses to stay in one lane 💅 I train models from scratch (yes, by hand-deriving the gradients, no I'm not okay), wire up IoT sensors, lock down networks and ship full-stack apps. Still learning, already building. It's giving main character energy.
+AIML student building practical projects across machine learning, IoT, network security and full-stack web development. I focus on understanding fundamentals, such as implementing models from first principles, and applying them to real systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyadarshini%20Prasad-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyadarshini-prasad-a92a4b3a9)
 
@@ -17,4 +17,4 @@ AIML student who refuses to stay in one lane 💅 I train models from scratch (y
 
 ## Currently
 
-- Building Phases 2–4 of Self-Healing Network: automated audit + drift remediation tooling
+- Building Phases 2–4 of Self-Healing Network: automated audit and drift remediation tooling
