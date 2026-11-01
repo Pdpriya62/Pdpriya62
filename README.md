@@ -1,6 +1,6 @@
 # Priyadarshini Prasad
 
-AIML student building practical projects across machine learning, IoT, network security and full-stack web development. I focus on understanding fundamentals, such as implementing models from first principles, and applying them to real systems.
+AIML student at RV University (RVU), Bengaluru, building practical projects across machine learning, IoT, network security and full-stack web development. I focus on understanding fundamentals, such as implementing models from first principles, and applying them to real systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyadarshini%20Prasad-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyadarshini-prasad-a92a4b3a9)
 
